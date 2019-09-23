@@ -22,9 +22,9 @@ module.exports = {
 	},
 
 	Auth0Config: {
-		domain: "",
-		clientId: "",
-		clientSecret: "",
+		domain: "bchang55.auth0.com",
+		clientId: "b5VpnIUHP0uBZLjItzURTtYTnktqbbvb",
+		clientSecret: "P1DVRMsTmMB5KZ3BRjE3HJezJCQkJH0vAPwUa7mDz8JN45S8cSOcVgkeJvPhPBmd",
 		callbackUrl: "http://localhost:3000/callback",
 		sessionSecret: "securepassword",
 		inMemoryStoreSize: "100",
